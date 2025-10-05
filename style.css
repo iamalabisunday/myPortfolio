@@ -684,6 +684,21 @@ footer {
     height: 200px;
   }
 
+  #about {
+    gap: 0rem;
+    margin-top: 0rem;
+  }
+
+  .about-text {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0rem;
+  }
+
+  .about-text p {
+    font-size: 0.85rem;
+  }
+
   .footer-content {
     display: flex;
     flex-direction: column;
